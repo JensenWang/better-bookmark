@@ -2,8 +2,6 @@
 
 > A modern, beautiful new tab experience that transforms how you manage and access your bookmarks.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## ✨ What is Better Bookmark?
 
 Better Bookmark replaces your browser's default new tab page with a powerful, elegant bookmark management interface. It's designed to help you organize, search, and access your bookmarks faster and more efficiently than ever before.
@@ -104,10 +102,6 @@ We love hearing from our users! If you have suggestions, feature requests, or en
 - 🐛 [Report an Issue](../../issues)
 - 💡 [Request a Feature](../../issues/new)
 - ⭐ [Star this repository](../../stargazers) if you find it useful!
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ❤️ Acknowledgments
 
