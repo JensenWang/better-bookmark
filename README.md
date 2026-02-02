@@ -117,4 +117,4 @@ Thank you to all users who have provided feedback and helped make Better Bookmar
 
 **Made with ❤️ for bookmark enthusiasts everywhere**
 
-[Privacy Policy](./privacy-policy.html)
+[Privacy Policy](https://jensenwang.github.io/better-bookmark/privacy-policy.html)
