@@ -57,20 +57,6 @@ Available in 10 languages to serve users worldwide:
 - Русский (Russian)
 - Português (Portuguese)
 
-## 🖼️ Screenshots
-
-### Grid View (Light Mode)
-![Grid View Light](screenshots/minimalist_grid_light.png)
-
-### Grid View (Dark Mode)
-![Grid View Dark](screenshots/minimalist_grid_dark.png)
-
-### List View (Light Mode)
-![List View Light](screenshots/minimalist_list_light.png)
-
-### List View (Dark Mode)
-![List View Dark](screenshots/minimalist_list_dark.png)
-
 ## 🎯 Who Is This For?
 
 Better Bookmark is perfect for:
